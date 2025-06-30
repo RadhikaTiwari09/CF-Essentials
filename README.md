@@ -1,4 +1,21 @@
 # CF-Essentials
 for my personal use
 
-<pre> ```cpp #include &lt;bits/stdc++.h&gt; using namespace std; using ll = long long; #define pb push_back #define all(x) (x).begin(), (x).end() #define ceach(x, a) for (const auto&amp; x : a) #define fast_io ios::sync_with_stdio(false); cin.tie(nullptr); int main() { fast_io; int t; cin >> t; while (t--) { } } ``` </pre>
+```
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+#define pb push_back
+#define all(x) (x).begin(), (x).end()
+#define ceach(x, a) for (const auto& x : a)
+#define fast_io ios::sync_with_stdio(false); cin.tie(nullptr);
+
+int main() {
+    fast_io;
+
+    int t; cin >> t;
+    while (t--) {
+        
+    }
+}
+```
